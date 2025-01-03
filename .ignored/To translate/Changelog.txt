@@ -1,173 +1,173 @@
 {v1.5}
 
-[Global]
-- Added decay sound for corroded doors.
+[Основное]
+- Добавлен звук разложения для проржавевших дверей.
 
-- Removed buttons glowing.
-- SCP-895 can effect monitors once player leaves SCP-173's room instead of requiring entering heavy containment zone.
-- Partially reverted SCP-079 increased chances to hack monitors with SCP-895.
-- Increased range to interact with ducks.
-- Increased map size from 18 to 20.
-- Updated SCP-895's overlay textures.
-- Better subtitles.
+- Убрана подсветка кнопок.
+- SCP-895 теперь может воздействовать на мониторы, как только игрок покинет комнату SCP-173, вместо обязательного нахождения в Зоне Строгого Содержания.
+- У частично работающего SCP-079 увеличены шансы взломать мониторы с помощью SCP-895.
+- Увеличена дальность взаимодействия с уточками.
+- Увеличен размер карты с 18 до 20.
+- Обновлены текстуры оверлея SCP-895-го.
+- Улучшено качество субтитров.
 
-[Rooms]
-- Added penny in «room1_storage».
-- Added picture frame of Mark Sibly in «room2_scientists_2».
-- New interactions with the duck in «room1_storage» when wearing SCP-714.
-- Updated SCP-008's label.
-- Added «pencil.b3d», «chessboard.b3d», «printer.b3d», «Plant.b3d», and «Plant2.b3d» props.
-- Improved «Keyboard.b3d» prop.
-- The decontamination rooms trap the player for longer.
+[Комнаты]
+- Добавлена монетка в «room1_storage».
+- Добавлена рамка с изображением Марка Сибли в «room2_scientists_2».
+- Добавлено новое взаимодействие с уткой в «room1_storage» при использовании SCP-714.
+- Обновлена табличка с SCP-008.
+- Добавлены пропы «pencil.b3d», «chessboard.b3d», «printer.b3d», «Plant.b3d», и «Plant2.b3d».
+- Улучшен проп «Keyboard.b3d».
+- Комната обеззараживания закрывает игрока на более длительное время.
 
-- Design improvements for some rooms...
+- Улучшения дизайна для некоторых комнат...
 
-[Items]
-- Added open SCP-427 icon.
-- Speed up equipping SCP-268 and ballistic helmet.
-- Speed up using cups slightly.
-- Syringes can restore some of the player's stamina.
+[Предметы]
+- Добавлена иконка открытого SCP-427.
+- Увеличена скорость надевания SCP-268 и баллистического шлема.
+- Немного увеличена скорость использования стаканов.
+- Шприцы могут восстановить небольшое количество выносливости игрока.
 
 [NPCs]
-- Added SCP-999.
-- Better texture for guards.
+- Добавлен SCP-999.
+- Добавлена более качественная текстура для охранников.
 
-[Bug Fixes]
-- Fixed SCP-789-J trigger distance.
-- Fixed mask of the Old Badge and the Ticket.
-- Fixed toilet not spawning in «room2_6_ez».
-- Fixed «spawn 106» console command.
-- Fixed SCP-106's pathfinding.
-- Fixed «Ctrl+V» combination crashing the game.
-- Fixed vehicle textures.
+[Исправления багов]
+- Исправлена дистанция активации SCP-789-J.
+- Исправлены маски старого бэйджика и билета.
+- Исправлена ошибка с туалетом, который не появлялся в «room2_6_ez».
+- Исправлена консольная команда «spawn 106».
+- Исправлен pathfinder SCP-106.
+- Исправлен вылет игры при использовании комбинации «Ctrl+V».
+- Исправлены текстуры у транспорта.
 
-[Known issues]
-- Rooms can overlap and block the way.
-- Tabbing out of the game and tabbing back in freezes the game view/turning off monitor freezes the game.
-- Battery issues caused by having multiple night vision devices.
-- Corrosive door textures not saving correctly.
+[Известные проблемы]
+- Комнаты могут накладываться на друг друга и преграждать путь.
+- Зависает игра при сворачивании и возвращении в неё, а также при отключении монитора.
+- Проблемы с батареей вызвано наличием большого количества очков ночного видения.
+- Текстуры проржавевшей двери не сохраняются правильно.
 
 {v1.4}
 
-[Global]
-- Added animation for femur breaker and butt ghost.
-	- Added face for butt ghost.
-- Added animation for SCP-914.
-- Added new startup video before loading intro scene.
-- Added new anomalous duck.
+[Основное]
+- Добавлена анимация для устройства переламывания бедренной кости и жопного призрака.
+	- Добавлено лицо для жопного призрака.
+- Добавлена анимация для SCP-914.
+- Добавлено новое стартовое видео перед загрузкой сцены вступления.
+- Добавлена новая аномальная уточка.
 
-- Reduced the chances of escaping the Pocket Dimension and the fake tunnel.
-- Blink meter turns red sooner when low.
-- SCP-079 is more likely to hack monitors with SCP-895.
-- Updated loading screens.
-- Removed Heckler & Kock G36 loading screen.
-- Improved getting up from the bed in the intro scene.
+- Уменьшены шансы побега из карманного измерения и ненастоящего туннеля.
+- Шкала моргания становится красной, когда её остаётся мало.
+- SCP-079 с большей вероятностью может взломать мониторы с SCP-895.
+- Обновлены загрузочные экраны.
+- Убран загрузочный экран с оружием Heckler & Kock G36.
+- Улучшена анимация вставания с кровати во вступлении.
 
-- Optimized the game...
+- Оптимизирована игра...
 
-[Rooms]
-- Added animation for ventilation grate in SCP-173's containment chamber.
-- Added new «bench2.b3d» model.
+[Комнаты]
+- Добавлена анимация для вентиляционной решётки в камере содержания SCP-173.
+- Добавлена новая модель для «bench2.b3d».
 
-- Improved ambience for «cont2_008».
-- Level 3 Key Card in «cont1_205» is now bloody.
-- Room event sounds for «cont2_500_1499» And «cont1_035» are now based on adjacent rooms instead of distance.
-- Can now open the door of SCP-205's chamber early.
-- Buttons now glow through the fog.
+- Улучшен звук эмбиента для «cont2_008».
+- Ключ-карта уровня допуска 3 в «cont1_205» теперь измазана кровью.
+- Звуки событий комнат для «cont2_500_1499» и «cont1_035» теперь зависят от смежных комнат, а не расстояния.
+- Теперь можно открыть дверь в камеру SCP-205 раньше времени.
+- Кнопки теперь светятся сквозь туман.
 
-- Improved some models...
+- Улучшены некоторые модели...
 
-[Items]
-- Added E-Reader.
-- Added SCP-789-J document.
-- Added bloody version of Level 0 Key Card and Level 1 Key Card.
-- Added Log of Anomalous Items.
+[Предметы]
+- Добавлен E-Reader.
+- Добавлен документ об SCP-789-J.
+- Добавлены вариации ключ-карт уровня допуска 0 и 1, измазанные кровью.
+- Добавлен журнал аномальных предметов.
 
-- Change chances for batteries.
-- Speed up healing from SCP-427.
+- Изменены шансы для батареек.
+- Увеличена скорость лечения от SCP-427.
 
-- You cannot drop SCP-1123 without SCP-714 now.
-- «energy» cup effect can now be refined in SCP-914.
-- SCP-1025 changes:
-	- Updated some SCP-1025 pages.
-	- Polydactyly injures the player now. (+1.5 injuries)
-	- Reduced analgesia's injury speed reduction resistance from 100% -> 75%
-	- Increased chance to obtain blue SCP-1025: 20% -> 100%
+- Теперь вы не сможете выбросить SCP-1123 без SCP-714.
+- Эффект «энергетического» стакана теперь может быть улучшен в SCP-914.
+- Изменения для SCP-1025:
+	- Обновлены некоторые страницы SCP-1025.
+	- Болезнь Полидактилии теперь наносит урон игроку. (+1.5 каждый раз)
+	- Снижено сопротивление к замедлению скорости от травм при болезни анальгезии со 100 до 75%.
+	- Увеличен шанс получения SCP-1025 синего цвета с 20 до 100%.
 	
-- Rebalance ballistic helmet.
-- Updated SCP-268 HUD icon.
+- Изменён баланс баллистического шлема.
+- Обновлён HUD иконки SCP-268.
 
-- Some changes for SCP-914 refinements...
+- Некоторые изменения в улучшении предметов через SCP-914...
 
-- Better textures for some items.
-- Improved icons for all items.
-- Improved a lot of models...
+- Текстуры более высокого качества для некоторых предметов.
+- Обновлены иконки для всех предметов.
+- Обновлено большое количество моделей...
 
 [NPCs]
-- Changed SCP-106's texture.
-- Reduced SCP-066's damage.
-- Changes for SCP-049:
-	- SCP-049 speaks sooner when trying to take off SCP-714 or the Hazmat Suit.
-	- Reduced SCP-049's idle timer to 4 seconds.
-	- SCP-049 closes doors sooner.
-- SCP-939 chase turn speed and movement speed acceleration increased.
-- Tourette's syndrome alerts NPCs.
-- Improved SCP-008-1 and SCP-049-2 teleporting.
-- SCP-966 are shorter.
-- SCP-966 additional insomnia accumulate faster.
-- SCP-106 leaves corroded footsteps when walking.
-- SCP-035's tentacle now creates a cracked decal.
+- Обновлена текстура SCP-106.
+- Снижен урон от SCP-066.
+- Изменения для SCP-049:
+	- SCP-049 говорит раньше при попытке снять с игрока SCP-714 или защитный костюм.
+	- Уменьшено время ожидания SCP-049 до 4 секунд.
+	- SCP-049 закрывает раньше двери.
+- Скорость преследования SCP-939-ым при его повороте и ускорении передвижения увеличены.
+- Синдром Туррета призывает NPC.
+- Улучшена телепортация SCP-008-1 и SCP-049-2.
+- Уменьшен размер SCP-966.
+- Дополнительная бессонница от SCP-966 накапливается быстрее.
+- SCP-106 при передвижении оставляет за собой ржавые следы.
+- Щупальце SCP-035 теперь может сделать трещину в полу.
 
-- Rework SCP-106's spawnrate throughout the facility:
-	- Based on integers of «PlayerRoom\DisableDecals».
-	- If «PlayerRoom\DisableDecals» = 0 Then SCP-106's spawnrate is normal.
-	- If «PlayerRoom\DisableDecals» = 1 Then SCP-106 spawnrate is 0.5x. Decals can still randomly spawn on this value.
-	- If «PlayerRoom\DisableDecals» = 2 Then SCP-106's spawnrate is 0.25x and pauses when below 2000.0.
-	- If «PlayerRoom\DisableDecals» = 3 Then SCP-106's spawntimer is paused entirely.
-	- Room spawntimer changes:
-	- LCZ:
+- Изменение шанса появления SCP-106 по всему комплексу:
+	- Основан на целых числах параметра «PlayerRoom\DisableDecals».
+	- Если «PlayerRoom\DisableDecals» = 0, то шанс появления SCP-106 обычный.
+	- Если «PlayerRoom\DisableDecals» = 1, то шанс появления SCP-106 — 0.5x. Декали всё ещё могут случайно появляться на этом значении.
+	- Если «PlayerRoom\DisableDecals» = 2, то шанс появления SCP-106 — 0.25x и останавливается при значении ниже 2000.0.
+	- Если «PlayerRoom\DisableDecals» = 3, то время появления SCP-106 останавливается полностью.
+	- Изменение времени появления для комнат:
+	- ЛЗС:
 		- «cont1_005», «cont1_205», «cont2_012», «room2_closets», «room2_gw», «room2_gw_2», «room2_storage»: 0.0x -> 0.25x
 		- «cont2c_066_1162_arc», «room2_tesla_lcz», «room3_storage»: 1.0x -> 0.5x
-	- HCZ:
+	- ЗСС:
 		- «cont1_895»,«cont2_409», «room2_hcz», «room2_2_hcz», «room2_3_hcz», «room2_shaft», «cont2c_096», «room3_hcz», «room4_hcz»: 0.0x -> 0.25x
 		- «cont1_035», «room2_tesla_hcz», «room2_servers_hcz»: 1.0x -> 0.5x
-	- EZ:
+	- ВЗ:
 		- «room2_2_ez», «room2_office», «room3_gw», «room3_2_ez», «room3_3_ez»: 0.0x -> 0.25x
 		- «room2_tesla_ez»: 1.0x -> 0.5x
 
-[Bug Fixes]
-- Fixed SCP-079's voice lines overlapping.
-- Fixed SCP-427 not healing blue SCP-1025 effects.
-- Fixed the ability to close/open inventory in the pause menu.
-- Fixed messages overlapping the SCP-1025 pages.
-- Fixed ability to slowly move during usage of a first aid kit.
-- Fixed SCP-049 getting stuck on SCP-895's stairs.
-- Fixed SCP-049-2 freezing when they killed the player.
-- Fixed orange duck not being clickable.
-- Fixes for MTF:
-	- Fixed MTF getting stuck on SCP-066.
-	- Fixed MTF not finding SCP-173's chamber.
-	- Fixed «AnnouncLost.ogg» sound not playing.
-- Fixed ability to use empty spaces in the seed name.
-- Fixed SCP-049 not looking at the player after killing him.
-- Fixes for SCP-106:
-	- Fixed vanilla game bug with wrong SCP-106 location at Gate A (SCP-106 constantly spawned under the player).
-	- Fixed SCP-106's Y-position. SCP-106 now changes his Y-position depending on player's Y-position more often. Also SCP-106 has a correct height (his legs are no longer inside the floor).
-	- Fixed path finding.
-- Fixed MAV caused by reading Polydactyly twice.
-- Fixed overlays scaling.
-- Fixed Franklin's gravity after intro scene.
-- Fixed wrong calculating of player's sound volume.
-- Fixed odd slider adjustment values (for example, 99% or 101%).
+[Исправления багов]
+- Исправлено накладывание реплик SCP-079 на друг друга.
+- Исправлен SCP-427, не лечащий эффекты от SCP-1025 синего цвета.
+- Исправлена возможность закрывать/открывать инвентарь в меню паузы.
+- Исправлены сообщения, перекрывающие страницы SCP-1025.
+- Исправлена возможность медленно передвигаться во время использования аптечки.
+- Исправлена возможность застревания SCP-049 на лестнице в камере SCP-895.
+- Исправлено зависание SCP-049-2, когда они убили игрока.
+- Исправлено, что на оранжевую уточку нельзя было нажать.
+- Исправления для МОГ:
+	- Исправлена возможность застревания МОГ в SCP-066.
+	- Исправлена ошибка, из-за которой МОГ не могла найти камеру SCP-173.
+	- Исправлен непроигрывающийся звук «AnnouncLost.ogg».
+- Исправлена возможность использования пустого имени для сида.
+- Исправлен SCP-049, не смотревший на игрока после его убийства.
+- Исправления для SCP-106:
+	- Исправлен баг оригинальной игры с неправильным расположением SCP-106 на Выходе A (SCP-106 постоянно появлялся под игроком).
+	- Исправлена позиция SCP-106 по Y. SCP-106 теперь чаще меняет свою Y-позицию в зависимости от Y-позиции игрока. Также SCP-106 имеет правильную высоту (его ноги больше не находятся в полу).
+	- Исправлен path finder.
+- Исправлен MAV, вызванный прочтением страницы с болезнью Полидактилии дважды.
+- Исправлено масштабирование оверлеев.
+- Исправлена гравитация Франклина после вступительной сцены.
+- Исправлено неправильное вычисление громкости звука игрока.
+- Исправлены странные значения настройки ползунка (например, 99% или 101%).
 
-- Normal SCP-1025 can be obtained from blue SCP-1025 now.
-- «Drawing» and «Blank Sheet» are no longer considered documents.
+- Обычный SCP-1025 теперь может быть получен из SCP-1025 синего цвета.
+- «Рисунки» и «пустой листок» теперь не являются документами.
 
-[Known issues]
-- Rooms can overlap and block the way.
-- Tabbing out of the game and tabbing back in freezes the game view/turning off monitor freezes the game.
-- Battery issues caused by having multiple night vision devices.
-- Corrosive door textures not saving correctly.
+[Известные проблемы]
+- Комнаты могут накладываться на друг друга и преграждать путь.
+- Зависает игра при сворачивании и возвращении в неё, а также при отключении монитора.
+- Проблемы с батареей вызвано наличием большого количества очков ночного видения.
+- Текстуры проржавевшей двери не сохраняются правильно.
 
 {v1.3}
 
@@ -222,7 +222,7 @@
 - Теперь можно зайти в офис Др. Гирса!
 - Чтобы войти в камеру SCP-035, потребуется ключ-карта уровня допуска 5.
 
-- Большинство точек экранных сохранений теперь размещено на компьютерах.
+- Большинство точек экранных сохранений теперь размещены на компьютерах.
 - Добавлена точка сохранения в «cont2_049» обзорной комнаты.
 
 - Новый эмбиент для камеры SCP-008 и катсцены.
