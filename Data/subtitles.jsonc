@@ -27,7 +27,7 @@
 {
 	"fallback": true, // Если вы хотите, чтобы игра отображала только локализованные субтитры, установите для этого параметра значение false.
 	"colors": {
-		// Put RGB-Colors that subtitles used here
+		// Укажите RGB-цвет субтитров, использующихся здесь.
 		"announcement": [130, 130, 130],
 		"chaos": [0, 130, 0],
 		"crew": [135, 160, 130],
@@ -2008,6 +2008,32 @@
 			"length": 3.82
 		}
 	],
+	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncLost.ogg": [
+		{
+			"text": "Внимание всему персоналу: мобильная оперативная группа «Девятихвостая Лиса» была убита сбежавшими SCP внутри комплекса.",
+			"delay": 2.32,
+			"color": "announcement",
+			"length": 9.52
+		},
+		{
+			"text": "Мы связались со всеми доступными тактическими группами быстрого реагирования на поверхности, чтобы устранить все угрозы, находящиеся внутри Фонда.",
+			"delay": 12.17,
+			"color": "announcement",
+			"length": 8.76
+		},
+		{
+			"text": "Персоналу рекомендуется продолжать соблюдать меры безопасности и оставаться в убежищах до дальнейших указаний.",
+			"delay": 21.36,
+			"color": "announcement",
+			"length": 6.96
+		},
+		{
+			"text": "Все нарушители и блуждающие сотрудники класса-D будут назначены на уничтожение.",
+			"delay": 28.57,
+			"color": "announcement",
+			"length": 6.0
+		}
+	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraCheck.ogg": [
 		{
 			"text": "Центр Девятихвостой Лисе, мы проверяем камеры видеонаблюдения на потенциальные угрозы. Вы должны увидеть, что на ваших навигационных устройствах обнаружены несанкционированные злоумышленники или беглецы.",
@@ -2040,14 +2066,15 @@
 			"length": 5.69
 		}
 	],
-	"SFX\\Character\\MTF\\Announc106Contained.ogg": [
+	"Localization\\ru\\SFX\\Character\\MTF\\Announc106Contain.ogg": [
 		{
 			"text": "Условия содержания SCP-106 успешно восстановлены спецподразделением №1.",
-			"delay": 1.07,
-			"color": "announcement"
+			"delay": 1.16,
+			"color": "announcement",
+			"length": 5.54
 		}
 	],
-	"Localization\\ru\\SFX\\Character\\MTF\\Announc173Contained.ogg": [
+	"Localization\\ru\\SFX\\Character\\MTF\\Announc173Contain.ogg": [
 		{
 			"text": "Условия содержания SCP-173 успешно восстановлены спецподразделением №1.",
 			"delay": 1.27,
