@@ -2601,27 +2601,33 @@
 			"length": 3.47
 		}
 	],
-	"SFX\\Character\\MTF\\106\\AlreadyCaptured.ogg": [
+	"Localization\\ru\\SFX\\Character\\MTF\\106\\AlreadyCaptured.ogg": [
 		{
-			"text": "Похоже, кто-то уже захватил SCP-106. Переходим к второстепенным задачам.",
-			"color": "mtf"
+			"text": "Похоже, кто-то уже поймал SCP-106. Переходим к второстепенным задачам.",
+			"color": "mtf",
+			"length": 4.80
 		}
 	],
-	"SFX\\Character\\MTF\\106\\FoundChamber.ogg": [
+	"Localization\\ru\\SFX\\Character\\MTF\\106\\FoundChamber.ogg": [
 		{
 			"text": "Мы нашли камеру содержания SCP-106.",
-			"color": "mtf"
+ 			"delay": 0.37,
+			"color": "mtf",
+			"length": 3.04
 		}
 	],
-	"SFX\\Character\\MTF\\106\\Protocol.ogg": [
+	"Localization\\ru\\SFX\\Character\\MTF\\106\\Protocol.ogg": [
 		{
 			"text": "Запускаем протокол возврата...",
-			"color": "mtf"
-		},
+			"color": "mtf",
+			"length": 2.18
+		}
+	],
+	"Localization\\ru\\SFX\\Character\\MTF\\106\\Cont.ogg": [
 		{
 			"text": "Условия содержания SCP-106 успешно восстановлены.",
-			"delay": 8.0,
-			"color": "mtf"
+			"color": "mtf",
+			"length": 3.82
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\106\\Spotted0.ogg": [
