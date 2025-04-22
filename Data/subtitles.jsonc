@@ -4116,13 +4116,13 @@
 		},
 		{
 			"text": "Хм, похоже на класс-D.",
-			"delay": 3.4,
-			"length": 1.79
+			"delay": 2.95,
+			"length": 1.55
 		},
 		{
 			"text": "Хеx, спорю на три косаря, что он и пяти минут не продержится.",
-			"delay": 7.90,
-			"length": 3.73
+			"delay": 5.85,
+			"length": 3.87
 		}
 	],
 	"Localization\\ru\\SFX\\Radio\\Franklin0.ogg": [
