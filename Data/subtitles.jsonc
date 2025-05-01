@@ -3468,29 +3468,29 @@
 	],
 	"SFX\\SCP\\079\\Broadcast6.ogg": [
 		{
-			"text": "*НЕПОНЯТНЫЕ ЗВУКИ* ЗОНА...",
+			"text": "*НЕПОНЯТНЫЕ ЗВУКИ*",
 			"color": "announcement",
 			"length": 2.0
 		}
 	],
-	"SFX\\SCP\\079\\Broadcast7.ogg": [
+	"Localization\\ru\\SFX\\SCP\\079\\Broadcast7.ogg": [
 		{
 			"text": "Я МЫСЛЮ..-",
-			"delay": 0.15,
+			"delay": 0.47,
 			"color": "announcement",
-			"length": 2.0
+			"length": 0.82
 		},
 		{
 			"text": "СЛЕДОВАТЕЛЬНО..-",
-			"delay": 1.65,
+			"delay": 1.66,
 			"color": "announcement",
-			"length": 1.0
+			"length": 0.99
 		},
 		{
 			"text": "Я СУЩЕСТВУЮ..-",
-			"delay": 2.7,
+			"delay": 2.98,
 			"color": "announcement",
-			"length": 1.0
+			"length": 1.08
 		}
 	],
 	/* 106 */
