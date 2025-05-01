@@ -21,6 +21,6 @@ jobs:
       - name: Invoke deployment hook
         uses: distributhor/workflow-webhook@v3
         with:
-          webhook_url: https://files.ziyuesinicization.site/transrepo.php
+          webhook_url: https://transrepo.ziyuesinicization.site/cbue
           data: '{ "master_branch": "main", "compatible": "${{ github.event.inputs.version }}" }'
           
