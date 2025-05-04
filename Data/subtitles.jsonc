@@ -1694,27 +1694,33 @@
 	"Localization\\ru\\SFX\\Character\\Janitor\\Idle.ogg": [
 		{
 			"text": "Привет?",
-			"delay": 0.3,
+			"delay": 2.18,
 			"color": "janitor",
-			"length": 1.76
+			"length": 1.77
 		},
 		{
 			"text": "Ребят, ну вы чего!",
-			"delay": 2.96,
+			"delay": 6.97,
 			"color": "janitor",
-			"length": 2.73
+			"length": 3.73
 		},
 		{
 			"text": "Ребят?",
-			"delay": 6.03,
+			"delay": 12.14,
 			"color": "janitor",
-			"length": 1.51
+			"length": 1.77
 		},
 		{
-			"text": "Ау, здесь есть кто-нибудь?",
-			"delay": 8.01,
+			"text": "Ау?",
+			"delay": 16.45,
 			"color": "janitor",
-			"length": 4.54
+			"length": 1.62
+		},
+		{
+			"text": "Здесь есть кто-нибудь?",
+			"delay": 18.96,
+			"color": "janitor",
+			"length": 2.6
 		}
 	],
 	/* СУБЪЕКТ-ПРИМАНКА */
@@ -3468,29 +3474,29 @@
 	],
 	"SFX\\SCP\\079\\Broadcast6.ogg": [
 		{
-			"text": "*НЕПОНЯТНЫЕ ЗВУКИ* ЗОНА...",
+			"text": "*НЕПОНЯТНЫЕ ЗВУКИ*",
 			"color": "announcement",
 			"length": 2.0
 		}
 	],
-	"SFX\\SCP\\079\\Broadcast7.ogg": [
+	"Localization\\ru\\SFX\\SCP\\079\\Broadcast7.ogg": [
 		{
 			"text": "Я МЫСЛЮ..-",
-			"delay": 0.15,
+			"delay": 0.47,
 			"color": "announcement",
-			"length": 2.0
+			"length": 0.82
 		},
 		{
 			"text": "СЛЕДОВАТЕЛЬНО..-",
-			"delay": 1.65,
+			"delay": 1.66,
 			"color": "announcement",
-			"length": 1.0
+			"length": 0.99
 		},
 		{
 			"text": "Я СУЩЕСТВУЮ..-",
-			"delay": 2.7,
+			"delay": 2.98,
 			"color": "announcement",
-			"length": 1.0
+			"length": 1.08
 		}
 	],
 	/* 106 */
