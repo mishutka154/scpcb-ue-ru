@@ -4330,13 +4330,13 @@
 	"Localization\\ru\\SFX\\Ending\\GateA\\STOPRIGHTTHERE.ogg": [
 		{
 			"text": "Стой где стоишь!",
-			"delay": 0.4,
+			"delay": 0.39,
 			"color": "mtf",
 			"length": 1.51
 		},
 		{
 			"text": "Обнаружен класс-D.",
-			"delay": 5.35,
+			"delay": 3.72,
 			"color": "mtf",
 			"length": 1.87
 		}
