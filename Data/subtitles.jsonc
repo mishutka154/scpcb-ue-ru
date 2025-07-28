@@ -3431,6 +3431,28 @@
 			"length": 2.18
 		}
 	],
+	"Localization\\ru\\SFX\\SCP\\079\\Reward.ogg": [
+		{
+			"text": "Я ОТКРЫЛ ДВЕРИ К РОУЗВУДУ.",
+			"delay": 0.61,
+			"color": "announcement",
+			"length": 2.13
+		},
+		{
+			"text": "ЗАБИРАЙ, ЧТО ТЕБЕ НУЖНО, И УХОДИ.",
+			"delay": 2.97,
+			"color": "announcement",
+			"length": 2.81
+		}
+	],
+	"Localization\\ru\\SFX\\SCP\\079\\Stairs.ogg": [
+		{
+			"text": "ПОСМОТРИ НА ЛЕСТНИЦЕ.",
+			"delay": 0.56,
+			"color": "announcement",
+			"length": 1.50
+		}
+	],
 	"Localization\\ru\\SFX\\SCP\\079\\TestroomWarning.ogg": [
 		{
 			"text": "ТЫ..-",
