@@ -3434,23 +3434,23 @@
 	"Localization\\ru\\SFX\\SCP\\079\\Reward.ogg": [
 		{
 			"text": "Я ОТКРЫЛ ДВЕРИ К РОУЗВУДУ.",
-			"delay": 0.61,
+			"delay": 1.65,
 			"color": "announcement",
-			"length": 2.13
+			"length": 2.88
 		},
 		{
 			"text": "ЗАБИРАЙ, ЧТО ТЕБЕ НУЖНО, И УХОДИ.",
-			"delay": 2.97,
+			"delay": 5.38,
 			"color": "announcement",
-			"length": 2.81
+			"length": 4.04
 		}
 	],
 	"Localization\\ru\\SFX\\SCP\\079\\Stairs.ogg": [
 		{
-			"text": "ПОСМОТРИ НА ЛЕСТНИЦЕ.",
-			"delay": 0.56,
+			"text": "ДОКТОР, ПОСМОТРИ НА ЛЕСТНИЦЕ.",
+			"delay": 1.94,
 			"color": "announcement",
-			"length": 1.50
+			"length": 2.90
 		}
 	],
 	"Localization\\ru\\SFX\\SCP\\079\\TestroomWarning.ogg": [
