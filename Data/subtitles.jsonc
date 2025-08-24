@@ -2820,7 +2820,7 @@
 	],
 	"Localization\\ru\\SFX\\SCP\\035\\Idle1.ogg": [
 		{
-			"text": "Ты что, не-?",
+			"text": "Ты что, не-",
 			"delay": 0.69,
 			"length": 1.01
 		},
@@ -2989,7 +2989,7 @@
 	],
 	"Localization\\ru\\SFX\\SCP\\035\\GasedStop0.ogg": [
 		{
-			"text": "*ЗАДЫХАЕТСЯ*",
+			"text": "*КАШЕЛЬ*",
 			"delay": 0.20,
 			"length": 3.85
 		},
@@ -3006,7 +3006,7 @@
 	],
 	"Localization\\ru\\SFX\\SCP\\035\\GasedStop1.ogg": [
 		{
-			"text": "*КАШЛЯЕТ*",
+			"text": "*КАШЕЛЬ*",
 			"delay": 0.14,
 			"length": 2.63
 		},
