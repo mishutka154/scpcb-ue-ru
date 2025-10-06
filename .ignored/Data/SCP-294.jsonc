@@ -26,7 +26,7 @@
 		"refuse_message": "\"Хм... Маловато куприта.\""
 	},
 	{
-		"name": ["Антиматерия", "Антивещество", "Antimatter", "Anti-matter", "Anti Matter", "Annighilation", "Void", "Atoms As-synthesized In The Sun", "Antiwater", "Anti-water", "Anti Water", "God"],
+		"name": ["Антиматерия", "Антивещество", "Antimatter", "Anti-matter", "Anti Matter", "Annihilation", "Void", "Atoms As-synthesized In The Sun", "Antiwater", "Anti-water", "Anti Water", "God"],
 		"color": [0, 0, 0],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
@@ -112,7 +112,7 @@
 		"blur": 5.0
 	},
 	{
-		"name": ["Смородиновый йогурт", "Смородиновый молочный коктейль", "Смородиновое мороженное", "Смородиновый пудинг", "Йогурт с черникой", "Молочный йогурт с черникой", "Черничное мороженное", "Мороженное с черникой", "Черничный пудинг", "Черничный коктейль", "Cassis Yoghurt", "Cassis Cocktail", "Cassis Milk Cocktail", "Cassis Caramel"],
+		"name": ["Смородиновый йогурт", "Смородиновый молочный коктейль", "Смородиновое мороженное", "Смородиновый пудинг", "Йогурт с черникой", "Молочный йогурт с черникой", "Черничное мороженное", "Мороженное с черникой", "Черничный пудинг", "Черничный коктейль", "Cassis Yogurt", "Cassis Cocktail", "Cassis Milk Cocktail", "Cassis Caramel"],
 		"color": [204, 122, 235 ],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -176,7 +176,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Кофе", "Черный кофе", "Крепкий кофе", "Кофе растворимый", "Напиток", "Coffee", "Black Coffee", "Nescafe Gold Coffee", "Nescafe Coffee", "MacCoffee Coffee", "Jacobs Coffee", "Jardine Coffee", "Strong Black Coffee", "Fairly Strong Black Coffee", "Drink", "Instant Coffee With Ground Coffee", "Ground Coffe With Instant Coffee", "Strong Coffee", "Arabica Coffee", "Robusta Coffee"],
+		"name": ["Кофе", "Черный кофе", "Крепкий кофе", "Кофе растворимый", "Напиток", "Coffee", "Black Coffee", "Nescafe Gold Coffee", "Nescafe Coffee", "MacCoffee Coffee", "Jacobs Coffee", "Jardine Coffee", "Strong Black Coffee", "Fairly Strong Black Coffee", "Drink", "Instant Coffee With Ground Coffee", "Ground Coffee With Instant Coffee", "Strong Coffee", "Arabica Coffee", "Robusta Coffee"],
 		"color": [87, 62, 45],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -215,7 +215,7 @@
 		"bloodloss": -75.0
 	},
 	{
-		"name": ["Пиво", "Бледное пиво", "Безалкогольное пиво", "Эль", "Beer", "Lager", "Pale Lager", "Pale Beer", "Something Than Man Likes", "Alcohol-free Beer", "Alcohol Free Beer", "Non-alcoholig Beer", "Non Alcoholig Beer", "Ale"],
+		"name": ["Пиво", "Бледное пиво", "Безалкогольное пиво", "Эль", "Beer", "Lager", "Pale Lager", "Pale Beer", "Alcohol-free Beer", "Alcohol Free Beer", "Non-alcoholic Beer", "Non Alcoholic Beer", "Ale"],
 		"color": [235, 165, 40],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -347,7 +347,7 @@
 		"drink_message": "\"Освежает...\""
 	},
 	{
-		"name": ["Видеоигры", "Нет игр", "Интернет", "Vidya", "Videogames", "Video Games", "VG", "Playstation 3 Has No Games", "Ps3 Has No Games", "No Games", "4chan.com", "2ch.ru", "Ochan", "2ch.hk", "2-ch.ru", "7chan", "Crautchan", "2ch.so", "Imageboard", "Internet", "Reddit", "Twitter"],
+		"name": ["Видеоигры", "Нет игр", "Интернет", "Vidya", "Videogames", "Video Games", "VG", "Playstation 3 Has No Games", "PS3 Has No Games", "No Games", "4chan.com", "2ch.ru", "Ochan", "2ch.hk", "2-ch.ru", "7chan", "Crautchan", "2ch.so", "Imageboard", "Internet", "Reddit", "Twitter", "X"],
 		"color": [100, 100, 100],
 		"alpha": 0.7,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
@@ -373,7 +373,7 @@
 		"drink_message": "\"Вкусно.\""
 	},
 	{
-		"name": ["То что любит женщина", "Французское шампанское 1934", "Something That Women Like", "French Champagne 1934s"],
+		"name": ["Шампанское", "Французское шампанское 1934", "Champagne", "French Champagne 1934"],
 		"color": [235, 165, 40],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -448,7 +448,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Spit.ogg",
-		"drink_message": "\"Что за? Боже. Так это я? Получается, меня не существует? Помоги мне.\""
+		"drink_message": "\"Это что же получается? Я всего лишь персонаж видеоигры?!\""
 	},
 	{
 		"name": ["Серый цвет", "Серая краска", "Серые чернила", "Grey Dye", "Gray Dye", "Grey Paint", "Gray Paint", "Grey Ink", "Gray Ink"],
@@ -458,7 +458,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Spit.ogg"
 	},
 	{
-		"name": ["Кокаиновый энергетический напиток", "Допинг", "Кофейный энергетический напиток", "Cocaine Energy Drink", "Anti-sleep Drink", "Anti Sleep Drink", "Anti-Sleeping Pills", "Anti Sleeping Pills", "Sleeping Drink", "Sleep Drink", "Doping", "Coffeine Energy Drink", "Taurine Energy Drink"],
+		"name": ["Кокаиновый энергетический напиток", "Допинг", "Кофейный энергетический напиток", "Cocaine Energy Drink", "Anti-sleep Drink", "Anti Sleep Drink", "Anti-Sleeping Pills", "Anti Sleeping Pills", "Sleeping Drink", "Sleep Drink", "Doping", "Caffeine Energy Drink", "Taurine Energy Drink"],
 		"color": [340, 29, 94],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -474,7 +474,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Ahh.ogg",
-		"drink_message": "Вы наслаждаетесь освежающим вкусом кокосового молока."
+		"drink_message": "\"Вы наслаждаетесь освежающим вкусом кокосового молока.\""
 	},
 	{
 		"name": ["Желтый цвет", "Желтые чернила", "Yellow Dye", "Yellow Ink"],
@@ -507,7 +507,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg"
 	},
 	{
-		"name": ["Золото", "Плавленное золото", "Жидкое золото", "Gold", "Liquid Gold", "Melt Gold"],
+		"name": ["Золото", "Плавленное золото", "Жидкое золото", "Gold", "Liquid Gold", "Molten Gold"],
 		"color": [255, 200, 15],
 		"alpha": 1.0,
 		"glow": true,
@@ -528,7 +528,7 @@
 		"blink_timer": 180.0
 	},
 	{
-		"name": ["Карри", "Масала", "Соус карри", "Соус масала", "Экзотические ароматизаторы и специи", "Экзотические специи и ароматизаторы", "Curry Sauce", "Masala Sauce", "Spices", "Flavours", "Exotic Flavours And Spices", "Exotic Spices And Flavours"],
+		"name": ["Карри", "Масала", "Соус карри", "Соус масала", "Экзотические ароматизаторы и специи", "Экзотические специи и ароматизаторы", "Curry Sauce", "Masala Sauce", "Spices", "Flavors", "Exotic Flavors And Spices", "Exotic Spices And Flavors"],
 		"color": [255, 83, 0],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -545,7 +545,7 @@
 		"explosion": true
 	},
 	{
-		"name": ["Мороженое", "Мороженое с ванилью", "Ice Cream", "Frozen Yoghurt", "Vanilla ice cream"],
+		"name": ["Мороженое", "Мороженое с ванилью", "Ice Cream", "Frozen Yogurt", "Vanilla ice cream"],
 		"color": [255, 255, 179],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -571,7 +571,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg"
 	},
 	{
-		"name": ["Кровь D-9341", "Кровь Бенджамина Оливера", "Кровь Оливера Бенджамина", "Меня", "Я", "Себя", "Бенджамин Оливер", "Моя кровь", "D-9341", "9341", "Blood of D-9341", "Blood of Benjamin Oliver", "Blood of Oliver Benjamin", "Me", "Myself", "I Am", "Self", "Benjamin Oliver", "Oliver Benjamin", "My Stomach", "My Intestines", "My Blood"],
+		"name": ["Кровь D-9341", "Кровь Бенджамина Оливера", "Кровь Оливера Бенджамина", "Меня", "Я", "Себя", "Бенджамин Оливер", "Моя кровь", "D-9341", "9341", "Blood of D-9341", "Blood of Benjamin Oliver Walker", "Me", "Myself", "I Am", "Self", "Benjamin Oliver Walker", "My Stomach", "My Intestines", "My Blood"],
 		"color": [200, 0, 0],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\Character\\D9341\\Damage1.ogg",
@@ -768,7 +768,7 @@
 		"death_timer": 10
 	},
 	{
-		"name": ["Героин", "Морфий", "Heroine", "Morphine"],
+		"name": ["Героин", "Морфий", "Heroin", "Morphine"],
 		"color": [255, 255, 255],
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -779,14 +779,14 @@
 		"death_timer": 30
 	},
 	{
-		"name": ["Анти апендецит", "Анти-апендецит", "Анти боль в животе", "Anti-apendicitis", "Anti-Stomach Ache", "Anti Apendicitis", "Anti Stomach Ache"],
+		"name": ["Анти аппендицит", "Анти-аппендицит", "Анти боль в животе", "Anti-appendicitis", "Anti-Stomach Ache", "Anti Appendicitis", "Anti Stomach Ache"],
 		"color": [84, 39, 39],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg"
 	},
 	{
-		"name": ["Мед", "Honey", "Propolis", "Teriacki sauce"],
+		"name": ["Мед", "Honey", "Propolis", "Teriyaki sauce"],
 		"color": [224, 198, 79],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -841,7 +841,7 @@
 		"stomachache": true
 	},
 	{
-		"name": ["Железо", "Сталь", "Металл", "Бритвенные лезвия", "Лезвие бритвы", "Лезвия бритвы", "Жидкий металл", "Жидкая сталь", "Расплавленный металл", "Расплавленная сталь", "Лом", "Iron", "Steel", "Metals", "Razor Blades", "Razorblades", "Liquid Iron", "Liquid Metal", "Melt Metal", "Melt Steel", "Scrap"],
+		"name": ["Железо", "Сталь", "Металл", "Бритвенные лезвия", "Лезвие бритвы", "Лезвия бритвы", "Жидкий металл", "Жидкая сталь", "Расплавленный металл", "Расплавленная сталь", "Лом", "Iron", "Steel", "Metals", "Razor Blades", "Razorblades", "Liquid Iron", "Liquid Metal", "Molten Metal", "Molten Steel", "Scrap", "Molten Scrap"],
 		"color": [255, 100, 30],
 		"alpha": 1.0,
 		"glow": true,
@@ -876,7 +876,7 @@
 		"blur": 10.0
 	},
 	{
-		"name": ["Слезы", "Слюна", "Пот", "Tears", "Tear", "Saliva", "Spit", "Sweat", "Perspiration", "Saliva Of Equus Ferus Caballus", "Salivia Of Horse"],
+		"name": ["Слезы", "Слюна", "Пот", "Tears", "Tear", "Saliva", "Spit", "Sweat", "Perspiration", "Saliva Of Equus Ferus Caballus", "Saliva Of Horse", "Horse Saliva"],
 		"color": [255, 255, 255],
 		"alpha": 0.2,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -955,7 +955,7 @@
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Ahh.ogg",
-		"drink_message": "Вы никогда не пили ничего подобного, вы чувствуете себя лучше, чем когда-либо.",
+		"drink_message": "Вы никогда не пили ничего подобного. Вы чувствуете себя лучше, чем когда-либо.",
 		"blur": 10.0,
 		"damage": -10.0,
 		"bloodloss": -100.0
@@ -974,7 +974,7 @@
 		"death_timer": 7
 	},
 	{
-		"name": ["Лава", "Камень", "Lava", "Magma", "Stone", "Cobblestone"],
+		"name": ["Лава", "Камень", "Lava", "Magma", "Stone", "Cobblestone", "Molten Lava", "Molten Magma"],
 		"color": [255, 72, 0],
 		"alpha": 1.0,
 		"glow": true,
@@ -990,7 +990,7 @@
 		"alpha": 0.7,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Ahh.ogg",
-		"drink_message": "Восхитительно! Тёплый, приятный на вкус, чай с грибами.",
+		"drink_message": "Восхитительно! Тёплый, приятный на вкус чай с грибами.",
 		"stamina_effect": 0.5,
 		"stamina_timer": 20.0,
 		"blur": 10.0
@@ -1040,7 +1040,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Горчичный соус", "Русская горчица", "Острая горчица", "Очень острая горчица", "Mustard Sauce", "Russian Mustard", "American Mustard", "Sharp Mustard", "Very Sharp Mustard"],
+		"name": ["Горчица", "Русская горчица", "Острая горчица", "Очень острая горчица", "Mustard", "Russian Mustard", "American Mustard", "Sharp Mustard", "Very Sharp Mustard"],
 		"color": [250, 200, 15],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -1114,7 +1114,7 @@
 		"drink_message": "Вы мечтаете сыграть в Galaga."
 	},
 	{
-		"name": ["Молочный суп", "Молочная каша", "Молочный коктейль", "Сгущенка", "Вареное молоко", "Коровье молоко", "Козье молоко", "Молочный пудинг", "Творог", "Ряженка", "Кефир", "Топленое молоко", "Кумыс", "Milk Soup", "Milk Cocktail", "Boiled Milk", "Cow Milk", "Goat Milk", "Goats Milk", "Cows Milk", "Milk Of Cow", "Milk Of Goat", "Milk", "Milk Puding", "Curds", "Cottage Cheese", "Kefir", "Ryazhenka", "Varenets", "Kumys"],
+		"name": ["Молочный суп", "Молочная каша", "Молочный коктейль", "Сгущенка", "Вареное молоко", "Коровье молоко", "Козье молоко", "Молочный пудинг", "Творог", "Ряженка", "Кефир", "Топленое молоко", "Кумыс", "Milk Soup", "Milk Cocktail", "Boiled Milk", "Cow Milk", "Goat Milk", "Goats Milk", "Cows Milk", "Milk Of Cow", "Milk Of Goat", "Milk", "Milk Pudding", "Curds", "Cottage Cheese", "Kefir", "Ryazhenka", "Varenets", "Kumys"],
 		"color": [255, 255, 255],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -1230,7 +1230,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Апельсиновый сок", "Апельсиновый коктейль", "Апельсиновая карамель", "Апельсиновый пудинг", "Апельсиновый йогурт", "Orange Juice", "Orange Cocktail", "Orange Milk Cocktail", "Orange Caramel", "Orange Yoghurt", "Orange Puding"],
+		"name": ["Апельсиновый сок", "Апельсиновый коктейль", "Апельсиновая карамель", "Апельсиновый пудинг", "Апельсиновый йогурт", "Orange Juice", "Orange Cocktail", "Orange Milk Cocktail", "Orange Caramel", "Orange Yogurt", "Orange Pudding"],
 		"color": [240, 175, 70],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -1244,7 +1244,7 @@
 		"glow": true,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
-		"drink_message": "\"Разум! С ХЕРА ЛИ Я ДОЛЖЕН ЭТО ПИТЬ?\"",
+		"drink_message": "\"С ХЕРА ЛИ Я ДОЛЖЕН ЭТО ПИТЬ?!\"",
 		"blink_effect": 2.0,
 		"death_timer": 0.0
 	},
@@ -1755,7 +1755,7 @@
 		"drink_message": "\"Пожалуйста, пожалуйста, пожалуйста, ещё...\""
 	},
 	{
-		"name": ["Йогурт", "Yoghurt", "Yogurt", "Berry Yoghurt", "Berry Yogurt"],
+		"name": ["Йогурт", "Yoghurt", "Yogurt", "Berry Yogurt", "Berry Yogurt"],
 		"color": [255, 128, 128],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -1771,7 +1771,7 @@
 		"glow": true,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Spit.ogg",
-		"drink_message": "Вы полный идиот."
+		"drink_message": "Вы идиот."
 	},
 	{
 		"name": ["S3CR3TDR1NK", "S3CR3T DR1NK"],
@@ -1991,7 +1991,7 @@
 		"mutation": true
 	},
 	{
-		"name": ["Тесто для ванильного торта", "Тесто для торта со взбитыми сливками", "Vanilla Cake Batter", "Whipped Cake Batter", "Dough For Pies", "Batter For Pancakes", "Pastry", "Dough For Biscuits", "Shortcrust Pastry", "Choux Pastry", "Puff Pastry", "Dough For Dumplings", "Cake Batter", "Vanilla Puding", "Vanilla Cream", "Custard"],
+		"name": ["Тесто для ванильного торта", "Тесто для торта со взбитыми сливками", "Vanilla Cake Batter", "Whipped Cake Batter", "Dough For Pies", "Batter For Pancakes", "Pastry", "Dough For Biscuits", "Shortcrust Pastry", "Choux Pastry", "Puff Pastry", "Dough For Dumplings", "Cake Batter", "Vanilla Pudding", "Vanilla Cream", "Custard"],
 		"color": [230, 215, 185],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -2249,7 +2249,7 @@
 		"blur": 115.0
 	},
 	{
-		"name": ["Протеиновый коктейль", "Протеин", "Protein Cocktail", "Proteins"],
+		"name": ["Протеиновый коктейль", "Протеин", "Protein Cocktail", "Protein Drink", "Proteins"],
 		"color": [69, 45, 6],
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -2331,7 +2331,7 @@
 		"death_timer": 25.0
 	},
 	{
-		"name": ["Слабительное", "Laxative", "Exlax", "Milk Of Magnesia", "Purgative", "Cathartic", "Aperient", "Purge", "Loosener"],
+		"name": ["Слабительное", "Laxative", "Ex-lax", "Milk Of Magnesia", "Purgative", "Cathartic", "Aperient", "Purge", "Loosener"],
 		"color": [48, 98, 122],
 		"alpha": 0.9,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -2569,7 +2569,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Burn.ogg"
 	},
 	{
-		"name": ["Шоколадное мороженое", "Шоколадный йогурт", "Шоколадный коктейль", "Молочный шоколад", "Шоколадный молочный коктейль", "Chocolate Ice Cream", "Chocolate Yoghurt", "Chocolate Cocktail", "Chocolate Milk Cocktail", "Milk Chocolate"],
+		"name": ["Шоколадное мороженое", "Шоколадный йогурт", "Шоколадный коктейль", "Молочный шоколад", "Шоколадный молочный коктейль", "Chocolate Ice Cream", "Chocolate Yogurt", "Chocolate Cocktail", "Chocolate Milk Cocktail", "Milk Chocolate"],
 		"color": [170, 75, 0],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -2577,7 +2577,7 @@
 		"drink_message": "\"На вкус, как сладкий шоколадный крем.\""
 	},
 	{
-		"name": ["Скромник", "Не SCP-096", "Не скромник", "SCP-096", "096", "Shy Guy", "Something Not Like SCP-096", "Something Not Like Shy Guy"],
+		"name": ["Скромник", "SCP-096", "096", "Shy Guy"],
 		"color": [199, 39, 59],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
@@ -2615,7 +2615,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Ванильный йогурт", "Ванильный коктейль", "Ванильный молочный коктейль", "Ванильная карамель", "Карамель", "Пудинг", "Сливки", "Vanilla Yoghurt", "Vanilla Cocktail", "Vanilla Milk Cocktail", "Vanilla Caramel", "Caramel", "Pudding", "Cream"],
+		"name": ["Ванильный йогурт", "Ванильный коктейль", "Ванильный молочный коктейль", "Ванильная карамель", "Карамель", "Пудинг", "Сливки", "Vanilla Yogurt", "Vanilla Cocktail", "Vanilla Milk Cocktail", "Vanilla Caramel", "Caramel", "Pudding", "Cream"],
 		"color": [230, 215, 185],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -2623,7 +2623,7 @@
 		"drink_message": "\"Сладко.\""
 	},
 	{
-		"name": ["Клубничное мороженное", "Клубнично-банановое мороженное", "Бананово-клубничное мороженное", "Клубничный йогурт", "Клубничный молочный коктейль", "Вишневый молочный коктель", "Клубничный пудинг", "Вишневый пудинг", "Вишневый йогурт", "Strawberry Ice Cream", "Strawberry-banana Ice Cream", "Banana-strawberry Ice Cream", "Strawberry Yoghurt", "Strawberry Milk Cocktail", "Cherry Milk Cocktail", "Strawberry Pudding", "Cherry Pudding", "Сherry Yoghurt"],
+		"name": ["Клубничное мороженное", "Клубнично-банановое мороженное", "Бананово-клубничное мороженное", "Клубничный йогурт", "Клубничный молочный коктейль", "Вишневый молочный коктель", "Клубничный пудинг", "Вишневый пудинг", "Вишневый йогурт", "Strawberry Ice Cream", "Strawberry-banana Ice Cream", "Banana-strawberry Ice Cream", "Strawberry Yogurt", "Strawberry Milk Cocktail", "Cherry Milk Cocktail", "Strawberry Pudding", "Cherry Pudding", "Сherry Yogurt"],
 		"color": [255, 50, 50],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -2792,7 +2792,7 @@
 		"death_timer": 120.0
 	},
 	{
-		"name": ["Яблочный молочный коктейль", "Яблочный пудинг", "Яблочный йогурт", "Apple Milk Cocktail", "Apple Pudding", "Apple Yoghurt"],
+		"name": ["Яблочный молочный коктейль", "Яблочный пудинг", "Яблочный йогурт", "Apple Milk Cocktail", "Apple Pudding", "Apple Yogurt"],
 		"color": [254, 219, 93],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -2832,12 +2832,12 @@
 		"drink_message": "\"Никогда не пробовал такой джин.\""
 	},
 	{
-		"name": ["Безалкогольная водка", "Alcohol Free Vodka", "Alcohol-free Vodka", "Non-alcoholig Vodka", "Non Alcoholig Vodka"],
+		"name": ["Безалкогольная водка", "Alcohol Free Vodka", "Alcohol-free Vodka", "Non-alcoholic Vodka", "Non Alcoholic Vodka"],
 		"color": [255, 255, 255],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "\"Что? На вкус как водка, но я не чувствую алкоголя...\"",
+		"drink_message": "\"Что? На вкус как водка, но я не чувствую здесь алкоголя...\"",
 		"blur": 15.0
 	},
 	{
@@ -2927,7 +2927,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Spit.ogg",
-		"drink_message": "\"На вкус как человеческая кровь.\""
+		"drink_message": "\"На вкус схоже с человеческой кровью.\""
 	},
 	{
 		"name": ["SCP-1416-2", "1416-2"],
@@ -2963,7 +2963,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Ополаскиватель", "Rinser", "Rinse aid"],
+		"name": ["Ополаскиватель", "Rinser", "Rinse aid", "Mouthwash", "Mouth wash"],
 		"color": [217, 214, 186],
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -3001,7 +3001,7 @@
 		"blur": 10.0
 	},
 	{
-		"name": ["Темное пиво", "Безалкогольное темное пиво", "Темный эль", "Dark Beer", "Dark Lager", "Alcohol-free Dark Beer", "Alcohol Free Dark Beer", "Non-alcoholig Dark Beer", "Non Alcoholig Dark Beer", "Dark Ale"],
+		"name": ["Темное пиво", "Безалкогольное темное пиво", "Темный эль", "Dark Beer", "Dark Lager", "Alcohol-free Dark Beer", "Alcohol Free Dark Beer", "Non-alcoholic Dark Beer", "Non Alcoholic Dark Beer", "Dark Ale"],
 		"color": [120, 60, 0],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -3026,7 +3026,7 @@
 		"blur": 10.0
 	},
 	{
-		"name": ["Смородиновый йогурт", "Смородиновый молочный коктейль", "Смородиновое мороженное", "Смородиновый пудинг", "Йогурт с черникой", "Молочный йогурт с черникой", "Черничное мороженное", "Мороженное с черникой", "Черничный пудинг", "Черничный коктейль", "Cassis Yoghurt", "Cassis Milk Cocktail", "Cassis Ice Cream", "Cassis Puding", "Blueberry Yoghurt", "Blueberry Milk Cocktail", "Blueberry Ice Cream", "Blueberry Puding", "Blueberry Coktail"],
+		"name": ["Смородиновый йогурт", "Смородиновый молочный коктейль", "Смородиновое мороженное", "Смородиновый пудинг", "Йогурт с черникой", "Молочный йогурт с черникой", "Черничное мороженное", "Мороженное с черникой", "Черничный пудинг", "Черничный коктейль", "Cassis Yogurt", "Cassis Milk Cocktail", "Cassis Ice Cream", "Cassis Pudding", "Blueberry Yogurt", "Blueberry Milk Cocktail", "Blueberry Ice Cream", "Blueberry Pudding", "Blueberry Cocktail"],
 		"color": [204, 122, 235 ],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -3054,7 +3054,7 @@
 		"alpha": 0.9,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "\"Эй! Я пил этот напиток в России!\""
+		"drink_message": "\"Эй! Я пил его однажды в России!\""
 	},
 	{
 		"name": ["Белый квас", "Белый хлебный квас", "White Kvass", "White Bread Kvass"],
@@ -3073,7 +3073,7 @@
 		"blur": 20.0
 	},
 	{
-		"name": ["Виноградный йогурт", "Виноградный молочный коктейль", "Виноградный пудинг", "Grape Yoghurt", "Grape Milk Cocktail", "Grape Pudding", "Grape Milk Cocktail"],
+		"name": ["Виноградный йогурт", "Виноградный молочный коктейль", "Виноградный пудинг", "Grape Yogurt", "Grape Milk Cocktail", "Grape Pudding", "Grape Milk Cocktail"],
 		"color": [174, 45, 223],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -3113,7 +3113,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Бронза", "Расплавленная бронза", "Жидкая бронза", "Bronze", "Liquid Bronze", "Melt Bronse"],
+		"name": ["Бронза", "Расплавленная бронза", "Жидкая бронза", "Bronze", "Liquid Bronze", "Molten Bronze", "Copper", "Liquid Copper", "Molten Copper", "Brass", "Liquid Brass", "Molten Brass"],
 		"color": [255, 200, 15],
 		"alpha": 1.0,
 		"glow": true,
@@ -3151,7 +3151,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg"
 	},
 	{
-		"name": ["Клей", "Суперклей", "Glue", "Super Glue", "Gorrila Glue", "Wood Glue", "Fabric Glue"],
+		"name": ["Клей", "Суперклей", "Glue", "Super Glue", "Gorila Glue", "Wood Glue", "Fabric Glue"],
 		"color": [250, 200, 15],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -3169,7 +3169,7 @@
 		"blur": 2.0
 	},
 	{
-		"name": ["Серебро", "Жидкое серебро", "Расплавленное серебро", "Silver", "Liquid Silver", "Melt Silver"],
+		"name": ["Серебро", "Жидкое серебро", "Расплавленное серебро", "Silver", "Liquid Silver", "Molten Silver"],
 		"color": [255, 100, 30],
 		"alpha": 1.0,
 		"glow": true,
@@ -3373,7 +3373,7 @@
 		"drink_sound": "SFX\\SCP\\294\\Spit.ogg"
 	},
 	{
-		"name": ["Сыр", "Плавленый сыр", "Жидкий сыр", "Cheese", "Hot Cheese", "Melt Cheese", "Liquid Cheese"],
+		"name": ["Сыр", "Плавленый сыр", "Жидкий сыр", "Cheese", "Hot Cheese", "Melted Cheese", "Liquid Cheese"],
 		"color": [250, 200, 15],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -3409,7 +3409,7 @@
 		"drink_message": "\"Прохладно и сладко.\""
 	},
 	{
-		"name": ["Супер энергетический напиток", "Супер энергетик", "Super Energy Drink", "Super ES", "Super Euroshopper", "Super Euroshopper Energy Drink", "Super Red Bull Energy Drink", "Super Jaguar Energy Drink", "Super Adrenalin Rush Energy Drink"],
+		"name": ["Супер энергетический напиток", "Супер энергетик", "Super Energy Drink", "Super ES", "Super Euroshopper", "Super Euroshopper Energy Drink", "Super Red Bull Energy Drink", "Super Jaguar Energy Drink", "Super Adrenaline Rush Energy Drink"],
 		"color": [254, 194, 16],
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
@@ -3437,14 +3437,14 @@
 		"blink_timer": 180
 	},
 	{
-		"name": ["Фитнес-коктейль", "Фитнес коктейль", "Коктейль из овощей", "Овощной коктейль", "Микс из овощей", "Mixed Vegetables", "Mix Of Vegetables", "Fitness Juice", "Fitness Drink", "Fitness Cocktail", "Vegetable Cocktail"],
+		"name": ["Фитнес-коктейль", "Фитнес коктейль", "Коктейль из овощей", "Овощной коктейль", "Микс из овощей", "Mixed Vegetables", "Mix Of Vegetables", "Fitness Juice", "Fitness Drink", "Fitness Cocktail", "Vegetable Mix"],
 		"color": [204, 0, 0],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg"
 	},
 	{
-		"name": ["Старость", "Old Life"],
+		"name": ["Старость", "Old Life", "Aging"],
 		"color": [58, 29, 20],
 		"alpha": 0.8,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
@@ -3543,7 +3543,7 @@
 		"death_timer": 0.0
 	},
 	{
-		"name": ["Фруктовый сок", "Персиковый сок", "Абрикосовый сок", "Яблочно-персиковый сок", "Персоково-яблочный сок", "Яблочно-абрикосовый сок", "Ябрикосово-яблочный сок", "Персиковый джем", "Абрикосовый джем", "Персиковый коктейль", "Абрикосовый коктейль", "Fruit Juice", "Fruits", "Mix Of Fruits", "Mixed Fruits", "Multifruit Juice", "Apricot Juice", "Peach Juice", "Apple-peach Juice", "Peach-apple Juice", "Apricot-apple Juice", "Apple-apricot Juice", "Apricot Cocktail", "Peach Cocktail", "Peach Milk Cocktail", "Apricot Milk Cocktail", "Apricot Caramel", "Peach Caramel", "Fruit Salad", "Apricot Jam", "Peach Jam", "Fruit Cocktail", "Fruit Milk Cocktail"],
+		"name": ["Фруктовый сок", "Персиковый сок", "Абрикосовый сок", "Яблочно-персиковый сок", "Персоково-яблочный сок", "Яблочно-абрикосовый сок", "Ябрикосово-яблочный сок", "Персиковый джем", "Абрикосовый джем", "Персиковый коктейль", "Абрикосовый коктейль", "Fruit Juice", "Fruits", "Mix Of Fruits", "Mixed Fruits", "Multifruit Juice", "Apricot Juice", "Peach Juice", "Apple-peach Juice", "Peach-apple Juice", "Apricot-apple Juice", "Apple-apricot Juice", "Apricot Cocktail", "Peach Cocktail", "Peach Milk Cocktail", "Apricot Milk Cocktail", "Apricot Caramel", "Peach Caramel", "Fruit Salad", "Apricot Jam", "Peach Jam", "Fruit Cocktail", "Fruit Mix"],
 		"color": [240, 175, 70],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
@@ -3570,7 +3570,7 @@
 		"drink_message": "\"Вкусно.\""
 	},
 	{
-		"name": ["Овсянка", "Каша", "Здоровое питание", "Oatmeal", "Porridge", "Qruel", "Healthy"],
+		"name": ["Овсянка", "Каша", "Здоровое питание", "Oatmeal", "Porridge", "Gruel", "Healthy"],
 		"color": [255, 255, 255],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
