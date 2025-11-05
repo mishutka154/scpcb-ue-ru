@@ -1969,49 +1969,49 @@
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncEnter.ogg": [
 		{
 			"text": "Мобильная оперативная группа Эпсилон-11 «Девятихвостая Лиса» вошла в комплекс.",
-			"delay": 1.03,
+			"delay": 1.16,
 			"color": "announcement",
-			"length": 4.77
+			"length": 6.38
 		},
 		{
 			"text": "Всем выжившим рекомендуется оставаться в убежище, или в любом другом безопасном месте, пока группа не зачистит комплекс.",
-			"delay": 5.8,
+			"delay": 8.02,
 			"color": "announcement",
-			"length": 6.34
+			"length": 7.52
 		},
 		{
 			"text": "Мы начнём выводить персонал наружу, когда условия содержания всех SCP-объектов не будут восстановлены.",
-			"delay": 12.16,
+			"delay": 15.96,
 			"color": "announcement",
-			"length": 5.24
+			"length": 7.13
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncAfter0.ogg": [
 		{
 			"text": "Предупреждаем всех выживших сотрудников ещё раз:",
-			"delay": 1.09,
+			"delay": 1.46,
 			"color": "announcement",
-			"length": 2.81
+			"length": 3.30
 		},
 		{
 			"text": "не пытайтесь достичь выходов. Найдите безопасное место или отправляйтесь в одно из множества убежищ внутри комплекса.",
-			"delay": 3.91,
+			"delay": 4.97,
 			"color": "announcement",
-			"length": 6.75
+			"length": 8.88
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncAfter1.ogg": [
 		{
 			"text": "Сообщение всему персоналу: лифт к Выходу B был заблокирован с целью обеспечения безопасности верхних участков комплекса.",
-			"delay": 1.23,
+			"delay": 2.06,
 			"color": "announcement",
-			"length": 7.73
+			"length": 9.29
 		},
 		{
 			"text": "Помните: оставайтесь внутри убежищ, пока комплекс не будет зачищен.",
-			"delay": 8.98,
+			"delay": 11.92,
 			"color": "announcement",
-			"length": 3.82
+			"length": 4.81
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncLost.ogg": [
@@ -2043,33 +2043,33 @@
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraCheck.ogg": [
 		{
 			"text": "Центр Девятихвостой Лисе, мы проверяем камеры видеонаблюдения на потенциальные угрозы. Вы должны увидеть, что на ваших навигационных устройствах обнаружены несанкционированные злоумышленники или беглецы.",
-			"delay": 0.96,
+			"delay": 2.03,
 			"color": "announcement",
-			"length": 10.52
-		}
-	],
-	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraFound0.ogg": [
-		{
-			"text": "Центр Девятихвостой Лисе, сканирование камер завершено. Несколько отставших, их позиции теперь передаются вам.",
-			"delay": 1.74,
-			"color": "announcement",
-			"length": 6.03
+			"length": 13.01
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraFound1.ogg": [
 		{
-			"text": "Центр Девятихвостой Лисе, cканирование камер завершено. Остался лишь один сотрудник D-класса.",
-			"delay": 0.95,
+			"text": "Центр Девятихвостой Лисе, сканирование камер завершено. Несколько отставших, их позиции теперь передаются вам.",
+			"delay": 2.1,
 			"color": "announcement",
-			"length": 5.31
+			"length": 6.03
+		}
+	],
+	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraFound2.ogg": [
+		{
+			"text": "Центр Девятихвостой Лисе, cканирование камер завершено. Остался лишь один сотрудник D-класса.",
+			"delay": 2.22,
+			"color": "announcement",
+			"length": 6.85
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncCameraNoFound.ogg": [
 		{
 			"text": "Центр Девятихвостой Лисе, cканирование камер завершено. Никаких следов неавторизованных выживших, конец связи.",
-			"delay": 1.09,
+			"delay": 0.88,
 			"color": "announcement",
-			"length": 5.69
+			"length": 7.20
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\Announc106Contain.ogg": [
@@ -2083,73 +2083,73 @@
 	"Localization\\ru\\SFX\\Character\\MTF\\Announc173Contain.ogg": [
 		{
 			"text": "Условия содержания SCP-173 успешно восстановлены спецподразделением №1.",
-			"delay": 1.27,
+			"delay": 1.05,
 			"color": "announcement",
-			"length": 4.74
+			"length": 6.93
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncThreat0.ogg": [
 		{
-			"text": "Подопытный D-9341, немедленно проследуйте к Выходу A для допроса.",
+			"text": "Подопытный D-9341, проследуйте к ближайшему контрольному пункту для допроса.",
 			"delay": 1.31,
 			"color": "announcement",
-			"length": 4.44
+			"length": 6.66
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncThreat1.ogg": [
 		{
 			"text": "Подопытный D-9341, проследуйте к ближайшей охранной команде. Неповиновение повлечёт за собой немедленное уничтожение.",
-			"delay": 1.01,
+			"delay": 2.11,
 			"color": "announcement",
-			"length": 6.90
+			"length": 10.30
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncThreat2.ogg": [
 		{
 			"text": "Подопытный D-9341, немедленно проследуйте к Выходу A для допроса.",
-			"delay": 1.24,
+			"delay": 1.95,
 			"color": "announcement",
-			"length": 4.51
+			"length": 6.21
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncThreatPossession.ogg": [
 		{
 			"text": "Подопытный D-9341, проследуйте к ближайшей мобильной оперативной группе для передачи нескольких объектов высокой важности.",
-			"delay": 2.5,
+			"delay": 2.23,
 			"color": "announcement",
-			"length": 6.99
+			"length": 9.38
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncThreatFinal.ogg": [
 		{
 			"text": "Субъект D-9341 назначен на уничтожение.",
-			"delay": 2.4,
+			"delay": 2.18,
 			"color": "announcement",
-			"length": 3.19
+			"length": 4.85
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncTeslaDisabled0.ogg": [
 		{
-			"text": "Центр Девятихвостой Лисе, тесла-врата отключены.",
-			"delay": 0.87,
+			"text": "Центр Девятихвостой Лисе, Тесла-врата отключены.",
+			"delay": 1.16,
 			"color": "announcement",
-			"length": 3.37
+			"length": 4.31
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncTeslaDisabled1.ogg": [
 		{
-			"text": "Центр Девятихвостой Лисе, тесла-врата деактивированы, можете продолжать движение.",
-			"delay": 1.19,
+			"text": "Центр Девятихвостой Лисе, Тесла-врата деактивированы, можете продолжать движение.",
+			"delay": 1.20,
 			"color": "announcement",
-			"length": 5.16
+			"length": 5.94
 		}
 	],
 	"Localization\\ru\\SFX\\Character\\MTF\\AnnouncTeslaDisabled2.ogg": [
 		{
 			"text": "Центр Девятихвостой Лисе, в вашем секторе тесла-врата отключены, они не представляют опасности.",
-			"delay": 1.58,
+			"delay": 1.23,
 			"color": "announcement",
-			"length": 5.54
+			"length": 6.93
 		}
 	],
 	/* МОГ */
