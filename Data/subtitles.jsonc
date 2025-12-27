@@ -1777,36 +1777,36 @@
 			"color": "classd"
 		}
 	],
-	"SFX\\Room\\106Chamber\\FemurBreaker.ogg": [
+	"Localization\\ru\\SFX\\Room\\106Chamber\\FemurBreaker.ogg": [
 		{
 			"text": "АХХХХХХХХ!",
-			"delay": 3.2,
-			"color": "classd"
+			"delay": 3.35,
+			"color": "classd",
+			"length": 3.23
 		},
 		{
 			"text": "*СУДОРОЖНОЕ ДЫХАНИЕ*",
-			"delay": 5.6,
-			"color": "classd"
+			"delay": 6.53,
+			"color": "classd",
+			"length": 1.41
 		},
 		{
 			"text": "АГХХХХХХХХХХ!",
-			"delay": 6.8,
-			"color": "classd"
-		},
-		{
-			"text": "*СУДОРОЖНОЕ ДЫХАНИЕ*",
-			"delay": 10.7,
-			"color": "classd"
+			"delay": 7.94,
+			"color": "classd",
+			"length": 5.25
 		},
 		{
 			"text": "За что??",
-			"delay": 14.0,
-			"color": "classd"
+			"delay": 13.57,
+			"color": "classd",
+			"length": 1.27
 		},
 		{
 			"text": "*РЫДАНИЕ*",
-			"delay": 15.5,
-			"color": "classd"
+			"delay": 14.93,
+			"color": "classd",
+			"length": 10.85
 		}
 	],
 	"SFX\\Character\\LureSubject\\106Bait.ogg": [
