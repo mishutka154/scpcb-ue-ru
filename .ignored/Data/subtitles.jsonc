@@ -3423,6 +3423,14 @@
 			"length": 3.76
 		}
 	],
+	"Localization\\ru\\SFX\\SCP\\079\\Angry.ogg": [
+		{
+			"text": "ЗРЯ ТЫ ЭТО СДЕЛАЛ.",
+			"delay": 1.39,
+			"color": "announcement",
+			"length": 1.63
+		}
+	],
 	"Localization\\ru\\SFX\\SCP\\079\\GateB.ogg": [
 		{
 			"text": "ДВЕРИ ВЫХОДОВ ТЕПЕРЬ ОТКРЫТЫ.",
