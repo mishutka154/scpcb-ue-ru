@@ -98,8 +98,8 @@
     {
         "title": "SCP-035",
         "image": "035.png",
-        "align_x": "center",
-        "align_y": "center",
+        "align_x": "right",
+        "align_y": "top",
         "background": false,
         "descriptions": [
             "SCP-035 имеет вид белой фарфоровой маски комедианта, хотя периодически маска принимает облик трагика.",
@@ -443,8 +443,8 @@
     {
         "title": "SCP-1048",
         "image": "1048.png",
-        "align_x": "center",
-        "align_y": "center",
+        "align_x": "left",
+        "align_y": "bottom",
         "background": false,
         "descriptions": [
             "SCP-1048 - это маленький плюшевый медведь примерно 33 см в высоту. Проведённые исследования материала, из которого состоит объект, не выявили ничего необычного, что отличало бы его от обычных подобных игрушек.",
